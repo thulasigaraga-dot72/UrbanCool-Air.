@@ -8,7 +8,7 @@ UrbanCool AI is a high-fidelity planning and simulation platform designed to mod
 
 | Resource | Link |
 |----------|------|
-| 🚀 Live Demo | [UrbanCool AI](urbancool-ai-ccwpisrkiz9ktrrepqc7jj.streamlit.app) |
+| 🚀 Live Demo | [UrbanCool AI](https://urbancool-ai-ccwpisrkiz9ktrrepqc7jj.streamlit.app/) |
 | 📂 GitHub Repository | https://github.com/thulasigaraga-dot72/UrbanCool-Air.git |
 
 # 👩‍💻 Connect with Me
