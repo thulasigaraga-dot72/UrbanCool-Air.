@@ -145,3 +145,4 @@ The dashboard includes a dedicated diagnostic planning assistant. It runs as a *
 * **Mumbai/Coastal queries**: Highlights humidity considerations, advising on coastal wetland restoration and building density caps to facilitate natural sea breezes.
 * **General cooling/mitigation queries**: Dynamically interfaces with `recommend.py` to identify and output the highest ROI cooling strategy for the currently selected city.
 # UrbanCool-Air
+# UrbanCool-Air.
